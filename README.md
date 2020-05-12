@@ -1,7 +1,16 @@
 # independents_projects
 
-Hello Internet!
+Simple Randomizer was built following the amazing guide of Treehouse from YouTube with a small touch that I decided to implement.
 
-Welcome to my GitHube page. My name is Yuri Machado, a brazillian guy who's living and studying in Portugal.
+The design was made by myself using the Figma tool and an icon from Flaticon.
 
-I am a student in the 2nd Period of the Higher Technical Course for Mobile Applications and this repository is destinated to show my development as an Android Developer and Programmer.
+
+
+- Treehouse's YouTube video - 
+
+--> https://www.youtube.com/watch?v=EOfCEhWq8sg&list=LLKnrtQUWTaE3OwqwHC1S7YA&index=67&t=0s
+
+
+- Dice Icon - 
+
+--> https://www.flaticon.com/free-icon/dice_2102161?term=dice&page=1&position=49
