@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Randomizer</string>
+    <string name="select_a_quantity">Select a Quantity</string>
+</resources>
