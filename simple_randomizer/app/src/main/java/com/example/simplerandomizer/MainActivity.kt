@@ -1,5 +1,7 @@
 package com.example.simplerandomizer
 
+// <<------------------------------------------------------------------------------------------>> //
+
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,6 +10,8 @@ import android.widget.SeekBar
 import android.widget.TextView
 import androidx.annotation.RequiresApi
 import java.util.*
+
+// <<------------------------------------------------------------------------------------------>> //
 
 class MainActivity : AppCompatActivity() {
 
